@@ -59,7 +59,7 @@ spec:
         - name: PODINFO_UI_COLOR
           value: "#34533c"
         - name: PODINFO_UI_MESSAGE
-          value: "This is sparta"
+          value: "This is ISCP"
         livenessProbe:
           httpGet:
             path: /healthz
