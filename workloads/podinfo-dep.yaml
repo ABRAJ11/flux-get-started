@@ -58,7 +58,7 @@ spec:
         env:
         - name: PODINFO_UI_COLOR
           value: "#34533c"
-          name: PODINFO_UI_MESSAGE
+        - name: PODINFO_UI_MESSAGE
           value: "This is sparta"
         livenessProbe:
           httpGet:
