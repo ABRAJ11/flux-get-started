@@ -59,7 +59,7 @@ spec:
         - name: PODINFO_UI_COLOR
           value: "#34533c"
         - name: PODINFO_UI_MESSAGE
-          value: "This is ISCP"
+          value: "This is ISCP Manged Environment"
         livenessProbe:
           httpGet:
             path: /healthz
