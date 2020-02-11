@@ -1,0 +1,1 @@
+{"jobID":"043d3bdd-a1e9-2633-b8a6-fc3ffb1c1e83","spec":{"type":"policy","cause":{"Message":"","User":"abraj11 \u003cabishekraj.inbox@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:3.2.*"},"remove":{}}}},"result":null}
